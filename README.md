@@ -1,6 +1,6 @@
 ## Hello, world! 🚀 
 
-I'm Anatoliy Pestich, an aspiring programmer and a specialist in the fascinating field of Natural Language Processing. I'm passionate about leveraging the power of technology to solve real-world problems, and NLP is my chosen path to make a meaningful impact.
+I'm Anatoliy Pestich, an aspiring programmer and a specialist in the fascinating field of NLP. I'm passionate about leveraging the power of technology to solve real-world problems, and NLP is my chosen path to make a meaningful impact.
 
 
 ## My Expertise
