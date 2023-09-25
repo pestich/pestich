@@ -11,6 +11,8 @@ I'm Anatoliy Pestich, an aspiring programmer and a specialist in the fascinating
 
 - **Text Classification**: I have experience in developing and fine-tuning machine learning models for text classification tasks. In my projects, I have worked with news articles and press releases from various organizations. I am passionate about the media industry and see significant potential for the integration of artificial intelligence technologies into it.
 
+- **Text Clustering**: One of the key projects is the clustering of unlabeled textual data. For tackling such tasks, I prefer to apply the DBSCAN method and utilize the Plotly library, which enables the creation of interactive graphics. I am simply enthralled by the capabilities of Plotly!
+
 ### Programming Skills
 
 - **Python**: My go-to programming language is Python. I'm proficient in Python and use it extensively for NLP projects and automation tasks.
